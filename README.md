@@ -55,3 +55,14 @@ Professional algorithmic trading solution for Kite AI - the decentralized AI pre
 - Kite AI Docker Setup  
 - Kite AI Neural Networks  
 - Kite LSTM Strategies  
+- bot 
+- airdrop 
+- kiteai 
+- kite ai 
+- kiteai bot 
+- kite ai bot
+- kiteai auto bot 
+- kiteai register 
+- kiteai reg 
+- kiteai automation 
+- kiteai ozone
